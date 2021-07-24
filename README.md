@@ -1,5 +1,5 @@
 ## ML_LinearRegression_Project
--->This project is on linear regression model based real life application , and used the following(.csv file) data to predict price of a vehicle on the basis of  various parameters provided.
+-->This project is on linear regression model based real life application using Sk learn as a primary tool for regression, and used the following(.csv file) data to predict price of a vehicle on the basis of  various parameters provided.
 --
 -->The data is splited into parts i.e train and test data to overcome overfitting , regression is performed on train data and test data is used for making predictions
 --
